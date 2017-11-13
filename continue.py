@@ -6,3 +6,4 @@ while True:
         print('too small')
         continue
     print('The data is out of range')
+    
