@@ -1,0 +1,1 @@
+print 'I\'m %d years %s'%(12,'old')
